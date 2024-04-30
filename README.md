@@ -888,9 +888,9 @@ Contact.html
 ```
 
 ## OUTPUT:
-![image](https://github.com/Jayalakshm1/softweb/assets/130430542/7b76447a-b310-4056-8911-7d03370c8730)
-
-
-
+![Screenshot (168)](https://github.com/Jayalakshm1/softweb/assets/130430542/b7a6d472-f307-4da1-81c9-12bef55c70c5)
+![Screenshot (170)](https://github.com/Jayalakshm1/softweb/assets/130430542/321929e4-64fe-44a6-9448-208dc400258e)
+![Screenshot (171)](https://github.com/Jayalakshm1/softweb/assets/130430542/2e3a4de5-7a5a-462c-8355-a15c25bdcae3)
+![Screenshot (172)](https://github.com/Jayalakshm1/softweb/assets/130430542/05abbd5f-ceb7-4035-ae4c-ac9682b9028b)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
